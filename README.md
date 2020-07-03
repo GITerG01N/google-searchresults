@@ -1,0 +1,1 @@
+This project is a simulation of a google search results page. It is meant to be more difficult than the first challenge to further strengthen my skills.
